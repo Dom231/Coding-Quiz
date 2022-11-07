@@ -5,7 +5,7 @@ var timeEl = document.querySelector(".time");
 var mainEl = document.getElementById("main");
 timeEl.textContent = "Time : 0"
 
-var secondsLeft = 60;
+var secondsLeft = 3;
 
 function setTime() {
   // Sets interval in variable
@@ -23,13 +23,16 @@ function setTime() {
   }, 1000);
 }
 
-// // Function to create and append colorsplosion image
-// function sendMessage() {
-//   timeEl.textContent = " ";
-//   var imgEl = document.createElement("img");
-//   imgEl.setAttribute("src", "images/image_1.jpg");
-//   mainEl.appendChild(imgEl);
+//One time reaches zero, message will display Game Over
+function sendMessage() {
+  timeEl.textContent = " ";
+  mainEl.textContent =" ";
+  mainEl.setAttribute("style", "text-align: center; padding: 100px;");
+  var ulEl = document.createElement("ul");
+  ulEl.setAttribute("style", "font-size: 250px; font-weight: bold;text-align: center");
+  ulEl.textContent = "Game Over";
+  mainEl.appendChild(ulEl);
 
-// }
+}
 
 // setTime();
