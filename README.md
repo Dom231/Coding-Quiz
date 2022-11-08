@@ -30,7 +30,5 @@ pictures of how the program currently runs
 <img width="956" alt="Screenshot 2022-11-07 224945" src="https://user-images.githubusercontent.com/114959233/200479133-7a5cd7d0-fdbd-4134-bba0-f0325ac51692.png">
 <img width="950" alt="Screenshot 2022-11-07 224958" src="https://user-images.githubusercontent.com/114959233/200479144-32df3558-984f-42f9-a2f4-1e1612dd19dd.png">
 <img width="955" alt="Screenshot 2022-11-07 225011" src="https://user-images.githubusercontent.com/114959233/200479154-822b4b61-98e2-443b-bd4f-bb2fcb0c759e.png">
-<img width="<img width="952" alt="Screenshot 2022-11-07 225124" src="https://user-images.githubusercontent.com/114959233/200479167-46be1d55-d90b-43c1-88da-87a01a1a4aaa.png">
-<img width="952" alt="Screenshot 2022-11-07 225124" src="https://user-images.githubusercontent.com/114959233/200479220-8a85595f-4694-4ba9-bc15-84d83652030b.png">
-
+<img width="<img width="952" alt="Screenshot 2022-11-07 225124" src="https://user-images.githubusercontent.com/114959233/200479167-46be1d55-d90b-43c1-88da 87a01a1a4aaa.png">
 <img width="941" alt="Screenshot 2022-11-07 224851" src="https://user-images.githubusercontent.com/114959233/200479183-da6edeb2-be5b-411b-9946-e3889e69f55a.png">
